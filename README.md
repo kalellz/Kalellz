@@ -2,6 +2,7 @@
 
 - 🔭 I'm currently working on being full-stack
 - 📫 How to reach me: (11) 952443450
+- ✨ Beginning of my career: 02/28/2022
 
 
 ### languages i'm learning recently
