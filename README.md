@@ -1,10 +1,10 @@
 ## ♦ WELCOME TO MY PROFILE
 
   👨🏻‍💻 About Me
+- 🌪  15y
 - 🔭 I'm currently working on being full-stack
 - 📫 How to reach me: (11) 952443450
 - 🎓 Beginning of my career: 02/28/2022
-- 🌪  15y
 - 📚 Always trying to improve knowledge
 - 💻 "Trying to be the best among the bests"
 #
