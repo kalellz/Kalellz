@@ -1,7 +1,7 @@
 ## ♦ WELCOME TO MY PROFILE
 
   👨🏻‍💻 About Me
-- 🌪  15y
+- 🌪  16y
 - 🔭 I'm currently working on being full-stack
 - 🎓 Beginning of my career: 01/28/2022
 - 📚 Always trying to improve knowledge
