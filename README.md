@@ -4,7 +4,7 @@
 - 🌪   17y
 - 🔭  I'm currently working on being full-stack
 - 🎓  Beginning of my career: 01/28/2022
-- 📚  Always trying to improve knowledge
+- 📚  High School Student
 - 💻  "Trying to be the best among the bests"
 - 🚩  SP/BR
 - 📲  +55 (11) 95244-3450
