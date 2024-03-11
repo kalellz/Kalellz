@@ -7,7 +7,7 @@
 - 📚 Always trying to improve knowledge
 - 💻 "Trying to be the best among the bests"
 - 🚩 SP/BR
-- 📲 +55 (11)95244-3450
+- 📲 +55 (11) 95244-3450
 #
 
 ### languages i'm learning recently
