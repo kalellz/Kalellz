@@ -40,13 +40,3 @@
 <img src="https://media1.giphy.com/media/aer096d3vD4rYVsgNn/giphy.gif?cid=ecf05e47o36m2o283nti3yf350li3is9d6ty590gkokcqjt4&rid=giphy.gif&ct=g"/>
 
 ##
-
-<div>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalellz&border_radius=20&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
-  
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalellz&theme=synthwave&show_icons=true" />
-</a>
-</div>
