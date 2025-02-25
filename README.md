@@ -1,10 +1,10 @@
 ## ♦ WELCOME TO MY PROFILE
 
   👨🏻‍💻  About Me
-- 🌪   17y
+- 🌪   18y
 - 🔭  I'm currently working on being full-stack
 - 🎓  Beginning of my career: 01/28/2022
-- 📚  High School Student
+- 📚  Systems Analysis and Development Student
 - 💻  "Trying to be the best among the bests"
 - 🚩  SP/BR
 - 📲  +55 (11) 95244-3450
