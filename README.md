@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=1000&color=F7F7F7&width=435&lines=Kalel+Rodrigues)](https://git.io/typing-svg)
- 
-Full-Stack developer — I build clean interfaces and robust APIs that actually solve problems.
- 
+  
 Analytical and creative, I care about code that's readable, systems that scale, and products that feel good to use.
  
 ---
